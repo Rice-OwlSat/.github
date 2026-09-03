@@ -1,6 +1,6 @@
 # Rice OwlSat
 
-![OwlSat Logo](https://raw.githubusercontent.com/Rice-OwlSat/OwlSatOS/refs/heads/master/docs/owlsatnavybluepng.png)
+<img src="https://raw.githubusercontent.com/Rice-OwlSat/OwlSatOS/refs/heads/master/docs/owlsatnavybluepng.png" width=300>
 
 We put a bunch of UV sensors on a metal cube and we're going to chuck it into space.
 
